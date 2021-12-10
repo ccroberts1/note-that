@@ -4,10 +4,10 @@
 
 ## Description
 
-![Screenshot of Landing Page](/images/screenshotLanding.png)
+![Screenshot of Landing Page](./images/screenshotLanding.png)
 _Landing page_
 
-![Screenshot of Note That in action!](/images/screenshotTakeNote.png)
+![Screenshot of Note That in action!](./images/screenshotTakeNote.png)
 _Note That in action!_
 
 The goal for this project was to create a note taking app that would make adding, saving and deleting notes easy and convenient for the user. It utilizes Node and Express.js for the server-side content and the UUID Node package for handling IDs for the notes (which allow for easy access and deletion). This was my first attempt at building out servers and routes via Express so it was an excellent way to get familiar with those.
